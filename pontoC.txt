@@ -1,0 +1,3 @@
+inteiro principal parenteses abre chave
+	codigozao
+fecha chave
