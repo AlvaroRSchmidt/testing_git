@@ -1,4 +1,10 @@
 int main(){
 	int x = 0;
-	printf("x-> %d", x);
+	printf("Inicialmente x possui o valor de %d", x);
+
+	for(x; x < 10; x++){
+		printf("%d", x);	
+	}
+	
+	printf("Agora ele possui valor: %d", x);
 }
