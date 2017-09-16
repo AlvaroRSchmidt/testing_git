@@ -1,3 +1,4 @@
-inteiro principal parenteses abre chave
-	codigozao
-fecha chave
+int main(){
+	int x = 0;
+	printf("x-> %d", x);
+}
