@@ -1,3 +1,6 @@
 class Main(object):
 	def __init__(self):
-		pass
+		print "Main criado com sucesso."
+
+if __name__ == "__main__":
+	app = Main()
